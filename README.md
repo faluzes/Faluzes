@@ -2,32 +2,8 @@
 
 [![Faluzes](https://cdn.statically.io/img/faluzes.me/f=auto/wp-content/uploads/2021/12/cropped-Faluzes-logo.png)](https://faluzes.me/)
 
-This is an Astro (v0.20.5) starter project based on the [Astro Starter Kit](https://github.com/snowpackjs/astro/tree/main/examples/starter), with a `netlify.toml` configuration included, and an example React component + CSS Module.
+## Anouar Aissaoui
 
-If you'd like to learn more about how Astro works, [here's an introductory blog post](https://dev.to/cassidoo/build-wicked-fast-sites-with-astro-an-introduction-173j)!
+[![Anouar Aissaoui](https://scontent.fcmn3-2.fna.fbcdn.net/v/t39.30808-6/240795418_6029532187118722_2698892726282109654_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_ohc=OC_xYiot8OYAX8cD9Uw&_nc_ht=scontent.fcmn3-2.fna&oh=00_AT_Gi4UDqIUi658JLtbQvkP_KFUMpHyn3SWYT6u-wYS0-g&oe=61BCC25A)](https://faluzes.me/)
 
-## Clone and Deploy
-
-You can instantly clone this to your GitHub and deploy it by clicking this button here:
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cassidoo/astro-netlify-starter)
-
-Or, if you'd like to just use the CLI and not deploy just yet, you can use `create-astro` with this as a template:
-
-```bash
-npm init astro my-new-project --template cassidoo/astro-netlify-starter
-```
-
-## Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command         | Action                                      |
-| :-------------- | :------------------------------------------ |
-| `npm install`   | Installs dependencies                       |
-| `npm run start` | Starts local dev server at `localhost:3000` |
-| `npm run build` | Build your production site to `./dist/`     |
-
-## Want to learn more?
-
-Feel free to check [the Astro documentation](https://github.com/snowpackjs/astro)!
+Hi, I'm `Anouar Aissaoui`, a Digital Marketing expert With 4+ years experience. I have helped brands manage their digital presence through SEO
