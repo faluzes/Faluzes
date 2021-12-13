@@ -1,12 +1,12 @@
 {
-  "name": "astro-netlify-starter",
+  "name": "Faluzes » Anouar Aissaoui - Technical SEO",
   "version": "0.2.0",
   "private": true,
   "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview"
+    "dev": "Faluzes",
+    "start": "Anouar Aissaoui",
+    "build": "Technical SEO",
+    "preview": "Aissaoui Anouar"
   },
   "devDependencies": {
     "astro": "^0.20.5"
