@@ -4,8 +4,6 @@
 
 ## Anouar Aissaoui
 
-[![Anouar Aissaoui]()](https://faluzes.me/)
-
 Hi, I'm `Anouar Aissaoui`, a Digital Marketing expert With 4+ years experience. I have helped brands manage their digital presence through SEO
 
 
