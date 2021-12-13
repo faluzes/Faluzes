@@ -1,6 +1,6 @@
-# Astro + Netlify Starter
+# Faluzes » Anouar Aissaoui
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9e561573-ed5f-4ef9-86d1-e098fa22429f/deploy-status)](https://app.netlify.com/sites/astro-netlify/deploys)
+[![Faluzes](https://cdn.statically.io/img/faluzes.me/f=auto/wp-content/uploads/2021/12/cropped-Faluzes-logo.png)](https://faluzes.me/)
 
 This is an Astro (v0.20.5) starter project based on the [Astro Starter Kit](https://github.com/snowpackjs/astro/tree/main/examples/starter), with a `netlify.toml` configuration included, and an example React component + CSS Module.
 
